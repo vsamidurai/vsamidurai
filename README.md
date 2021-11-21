@@ -1,6 +1,6 @@
 # Hello! Nice to meet you 👋
 
-A software engineer with an interest in distributed systems, tools, reliability and security
+software engineer with an interest in distributed systems, tools, reliability and security
 
 ### 🗺 Location:
 
