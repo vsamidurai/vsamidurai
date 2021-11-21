@@ -10,6 +10,11 @@ software engineer with an interest in distributed systems, tools, reliability an
 
 I am available via email (contact@vilva.dev) at all times.
 
+
+#### Visitors (since 21 November 2021)
+
+![Counter](https://profile-counter.glitch.me/vsamidurai/count.svg)
+
 <!--
 Here are some ideas to get you started:
 
