@@ -1,8 +1,16 @@
-### Hi there 👋
+# Hello! Nice to meet you 👋
+
+A software engineer with an interest in distributed systems, tools, reliability and security
+
+### 🗺 Location:
+
+* I am currently based in Dublin, Ireland. 
+
+### 📫 How to reach me:
+
+I am available via email (contact@vilva.dev) at all times.
 
 <!--
-**vsamidurai/vsamidurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
