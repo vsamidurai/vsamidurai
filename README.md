@@ -8,7 +8,7 @@ I'm Vilva, a software engineer with an interest in distributed systems, tools, r
 
 ### 📫 How to reach me:
 
-I am available via email (mail@vilva.me) at all times.
+I am available via email (vilvaram[at]gmail[dot]com) at all times.
 
 
 #### Visitors (since 21 November 2021)
