@@ -1,6 +1,6 @@
 # Hello! Nice to meet you 👋
 
-I'm Vilva, a software engineer with an interest in distributed systems, tools, reliability and security.
+I'm Vilva, a software engineer with an interest in distributed systems, tools, reliability, and security.
 
 ### 🗺 Location:
 
