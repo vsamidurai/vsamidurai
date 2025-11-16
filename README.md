@@ -1,25 +1,26 @@
-# Hello! Nice to meet you 👋
+# 👋 Hi, I'm Vilva (vsamidurai)
 
-I'm Vilva, a software engineer with an interest in distributed systems, tools, reliability, and security.
+**Software Engineer** passionate about building reliable, secure distributed systems using Go, Kubernetes, and infrastructure.
 
-### 🗺 Location:
+---
 
-* I am currently based in Dublin, Ireland. 
+## 🚀 About Me  
+- 📍 Based in Dublin, Ireland 
+- 💼 Currently focused on: **Kubernetes operators**, **reliability tooling**, and **Go**  
+- 💬 Always excited to collaborate on open-source projects or infrastructure software  
 
-### 📫 How to reach me:
+---
 
-I am available via email (vilvaram[at]gmail[dot]com) at all times.
+## 🧰 Tech Stack  
+- **Languages:** Go, Python  
+- **Infrastructure / Tools:** Kubernetes, Docker, Terraform, Helm  
+- **Expertise:** Distributed systems, reliability engineering, security, observability  
 
+---
 
-<!--
-Here are some ideas to get you started:
+## 📫 Get in Touch  
+- Email: **vilvaram@gmail.com**  
+- LinkedIn: *[[LinkedIn]](https://www.linkedin.com/in/vilvaram/)*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
