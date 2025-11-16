@@ -20,7 +20,7 @@
 
 ## 📫 Get in Touch  
 - Email: **vilvaram@gmail.com**  
-- LinkedIn: *[[LinkedIn]](https://www.linkedin.com/in/vilvaram/)*  
+- LinkedIn: *[LinkedIn](https://www.linkedin.com/in/vilvaram/)*  
 
 ---
 
