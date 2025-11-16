@@ -13,7 +13,7 @@
 
 ## 🧰 Tech Stack  
 - **Languages:** Go, Python  
-- **Infrastructure / Tools:** Kubernetes, Docker, Terraform, Helm  
+- **Infrastructure / Tools:** Kubernetes, Prometheus, Docker, Terraform, Helm  
 - **Expertise:** Distributed systems, reliability engineering, security, observability  
 
 ---
