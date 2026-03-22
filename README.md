@@ -19,7 +19,7 @@
 ---
 
 ## 📫 Get in Touch  
-- Email: **vilvaram@gmail.com**  
+- Email: **contact@vilva.dev**  
 - LinkedIn: *[LinkedIn](https://www.linkedin.com/in/vilvaram/)*
 - Website: https://about.vilva.dev/
 
